@@ -1,8 +1,32 @@
-# Introduction
+# Nexter - An official website for a virtual luxury real estate company
 
-A responsive official website for a virtual luxury real estate company using mainly CSS grid
+## Introduction
 
-## Desktop preview
+I create a responsive official website for a virtual luxury real estate company using HTML, CSS/SCSS and Javascript. The original design was by Jonas Schmendtmann.
+
+## Description
+
+### Components
+
+- header
+- realtors
+- features
+- story
+- homes
+- gallery
+- footer
+- sidebar
+
+### Highlights
+
+ - Using CSS Grid to create complex, responsive layouts in a more efficient and flexible way
+ - Using pseudo-elements to apply special effects, e.g. create a nav button
+ - Creating a background that has a gradient overlay with a specific background image scaled to cover the entire element
+ - Using SCSS to extend the capabilities of CSS, making it more powerful and easier to write
+    - Setting ```currentColor``` to ensure dynamic color updates, easier maintenance and reduce code duplication
+
+
+### Desktop preview
 
 <img width="1212" alt="image" src="https://user-images.githubusercontent.com/97832811/212533206-b6526619-79cc-46b8-b757-c7a5c5e1dba5.png">
 
@@ -16,7 +40,7 @@ A responsive official website for a virtual luxury real estate company using mai
 
 <img width="1301" alt="image" src="https://user-images.githubusercontent.com/97832811/212533252-3a2322e5-8a48-4804-b979-072ee42cc24b.png">
 
-## Mobile preview
+### Mobile preview
 
 <img width="189" alt="image" src="https://user-images.githubusercontent.com/97832811/212533309-12852595-c9bb-4d2f-afb5-8367a3868ef5.png">
 
